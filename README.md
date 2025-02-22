@@ -33,7 +33,7 @@ I am currently a **Software Engineering** student at **Addis Ababa Science and T
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/main/logo/cypress-logo-dark.svg" alt="Cypress" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -55,6 +55,9 @@ Let's connect and collaborate!
 <a href="https://leetcode.com/injeolmi10" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
+<a href="https://emnet-portfolio.onrender.com/" target="_blank">
+  🌐 Portfolio
+</a>
 </p>
 
 ---
@@ -64,3 +67,4 @@ Let's connect and collaborate!
 I love participating in **hackathons and coding competitions** to challenge myself and learn new technologies!
 
 ---
+

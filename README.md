@@ -1,70 +1,81 @@
-## Hi there! I'm Emnet 🌟
+# 👋 Hi, I'm Emnet
 
-**Software Engineer | Full Stack Developer**
-
-Passionate about using technology to solve real-world problems.
-
----
-
-## 🌱 About Me
-
-I am currently a **Software Engineering** student at **Addis Ababa Science and Technology University**. I have a keen interest in **software development, UI/UX Design, and competitive programming**. I am passionate about working on **real-world projects** to sharpen my coding and problem-solving skills.
+💻 Full Stack Developer | Software Engineer  
+🚀 Building real-world products with clean, scalable code  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 About Me
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+I'm a Software Engineering student at **Addis Ababa Science and Technology University** with a strong focus on building practical, real-world applications.
+
+I enjoy working across the stack — from crafting responsive UIs to designing backend systems and working with data. Recently, I’ve also been exploring **AI/ML and data-driven systems**.
 
 ---
 
-## 💌 Connect with Me
+## ⚙️ Tech Stack
 
-Let's connect and collaborate!
+### 💡 Core
+- TypeScript / JavaScript
+- Python
+
+### 🖥️ Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Redux
+
+### 🔧 Backend & Database
+- Node.js
+- Express
+- PostgreSQL / MySQL / MongoDB
+
+### 🧪 Tools & Others
+- Git & GitHub
+- Jest / Cypress
+- Figma
+- REST APIs
+
+---
+
+## 📌 What I’m Focused On
+
+- Building scalable full-stack applications  
+- Improving system design & backend architecture  
+- Working on AI + data-driven projects  
+- Writing clean, maintainable production code  
+
+---
+
+## 🌐 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/emnet-teshome-b16107265" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  LinkedIn
+</a> •
 <a href="https://codeforces.com/profile/injeolmi10" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-</a>
+  Codeforces
+</a> •
 <a href="https://leetcode.com/injeolmi10" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
+  LeetCode
+</a> •
 <a href="https://emnet-tes.vercel.app/home" target="_blank">
-  🌐 Portfolio
+  Portfolio
 </a>
 </p>
 
 ---
 
-## 🌟 Fun Fact
+## 📊 GitHub Profile Views
 
-I love participating in **hackathons and coding competitions** to challenge myself and learn new technologies!
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Emnet-tes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
+## ⚡ Fun Fact
+
+I enjoy hackathons and competitive programming — they push me to think faster and build smarter.
+
+---
